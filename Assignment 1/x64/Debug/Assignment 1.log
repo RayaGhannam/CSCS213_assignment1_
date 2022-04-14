@@ -1,0 +1,15 @@
+﻿  animal.cpp
+C:\Users\HP\Desktop\Assignment 1\Assignment 1\Animal.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  animal.h
+C:\Users\HP\Desktop\Assignment 1\Assignment 1\animal.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  cat.cpp
+C:\Users\HP\Desktop\Assignment 1\Assignment 1\Animal.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  dog.cpp
+C:\Users\HP\Desktop\Assignment 1\Assignment 1\Animal.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  fish.cpp
+C:\Users\HP\Desktop\Assignment 1\Assignment 1\Animal.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+C:\Users\HP\Desktop\Assignment 1\Assignment 1\Animal.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+x64\Debug\animal.obj : warning LNK4042: object specified more than once; extras ignored
+  Assignment 1.vcxproj -> C:\Users\HP\Desktop\Assignment 1\x64\Debug\Assignment 1.exe
